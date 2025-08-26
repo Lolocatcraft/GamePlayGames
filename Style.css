@@ -1,0 +1,115 @@
+.titulo {
+    color: #333;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    background-color: #38528a;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+body {
+    background-image: url(Imagens/Fundo.png);
+}
+
+.subtexto {
+    color: #053aad;
+    font-size: 1.2em;
+    line-height: 1.6;
+    font-family: 'Verdana', sans-serif;
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.videologo {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.playbutton {
+    font-family: 'Verdana', sans-serif;
+    margin: 20px auto;
+    max-width: 100px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(255, 165, 218, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgb(148, 255, 246);
+    margin-left: 600px;
+    margin-top: -30px;
+}
+
+.videogamedadologo {
+    margin-right: 150px auto;
+    width: 100%;
+    max-width: 150px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.tituloImformation {
+    color: #053aad;
+    font-size: 1.2em;
+    line-height: 1.6;
+    font-family: 'Verdana', sans-serif;
+    max-width: 300px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    margin-left: 600px auto;
+    margin-top: -600px;
+}
+
+.textoImformation {
+    color: #053aad;
+    font-size: 1.2em;
+    line-height: 1.6;
+    font-family: 'Verdana', sans-serif;
+    max-width: 300px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    margin-left: 600px auto;
+    margin-top: -10px auto;
+}
+
+.playgamebutton {
+    font-family: 'Verdana', sans-serif;
+    margin: 20px auto;
+    max-width: 100px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(255, 165, 218, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgb(148, 255, 246);
+    margin-right: 700px auto;
+    margin-top: -550px auto;
+}
+
+.videogamebollobbylogo {
+    margin-right: 200px auto;
+    width: 100%;
+    max-width: 150px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
