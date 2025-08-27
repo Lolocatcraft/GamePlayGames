@@ -1,14 +1,14 @@
 .titulo {
     color: #333;
     text-align: center;
-    margin-top: 50px auto;
-    font-size: 50px auto;
+    margin-top: 110px auto;
+    font-size: 100px auto;
     font-weight: bold;
     font-family: 'Arial', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
-    padding: 35px auto;
+    padding: 100px auto;
     background-color: #38528a;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -24,9 +24,9 @@ body {
     font-size: 1.2em;
     line-height: 1.6;
     font-family: 'Verdana', sans-serif;
-    margin: 30px auto;
-    max-width: 800px auto;
-    padding: 20px auto;
+    margin: 90px auto;
+    max-width: 900px auto;
+    padding: 110px auto;
     text-align: center;
     background-color: rgba(255, 255, 255, 0.8);
     border-radius: 10px;
@@ -36,17 +36,17 @@ body {
 .videologo {
     display: block;
     margin: 0 auto;
-    width: 100% auto;
+    width: 150% auto;
     max-width: 650px auto;
-    border-radius: 20px;
+    border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 .playbutton {
     font-family: 'Verdana', sans-serif;
-    margin: 20px auto;
-    max-width: 100px auto;
-    padding: 30px auto;
+    margin: 50px auto;
+    max-width: 250px auto;
+    padding: 90px auto;
     text-align: center;
     background-color: rgba(255, 165, 218, 0.8);
     border-radius: 20px;
@@ -57,7 +57,7 @@ body {
 
 .videogamedadologo {
     margin-right: 150px auto;
-    width: 100% auto;
+    width: 200% auto;
     max-width: 150px auto;
     border-radius: 20px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
@@ -69,7 +69,7 @@ body {
     line-height: 1.6 auto;
     font-family: 'Verdana', sans-serif;
     max-width: 300px auto;
-    padding: 25px auto;
+    padding: 45px auto;
     text-align: center;
     background-color: rgba(255, 255, 255, 0.8);
     border-radius: 10px;
@@ -84,7 +84,7 @@ body {
     line-height: 1.6 auto;
     font-family: 'Verdana', sans-serif;
     max-width: 300px auto;
-    padding: 20px auto;
+    padding: 200px auto;
     text-align: center;
     background-color: rgba(255, 255, 255, 0.8);
     border-radius: 10px;
@@ -113,6 +113,7 @@ body {
     border-radius: 20px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
+
 
 
 
