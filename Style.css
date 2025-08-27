@@ -1,8 +1,8 @@
 .titulo {
     color: #333;
-    text-align: center auto;
+    text-align: center;
     margin-top: 50px auto;
-    font-size: 2em auto;
+    font-size: 50px auto;
     font-weight: bold;
     font-family: 'Arial', sans-serif;
     text-transform: uppercase;
@@ -10,7 +10,7 @@
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
     padding: 10px auto;
     background-color: #38528a;
-    border-radius: 5px auto;
+    border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     transition: background-color 0.3s ease, color 0.3s ease;                                                   
 }
@@ -21,24 +21,24 @@ body {
 
 .subtexto {
     color: #053aad;
-    font-size: 1.2em auto;
-    line-height: 1.6 auto;
+    font-size: 1.2em;
+    line-height: 1.6;
     font-family: 'Verdana', sans-serif;
     margin: 20px auto;
     max-width: 800px auto;
     padding: 20px auto;
-    text-align: center auto;
+    text-align: center;
     background-color: rgba(255, 255, 255, 0.8);
-    border-radius: 10px auto;
+    border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 .videologo {
-    display: block auto;
+    display: block;
     margin: 0 auto;
     width: 100% auto;
     max-width: 600px auto;
-    border-radius: 10px auto;
+    border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
@@ -47,9 +47,9 @@ body {
     margin: 20px auto;
     max-width: 100px auto;
     padding: 20px auto;
-    text-align: center auto;
+    text-align: center;
     background-color: rgba(255, 165, 218, 0.8);
-    border-radius: 10px auto;
+    border-radius: 10px;
     box-shadow: 0 4px 10px rgb(148, 255, 246);
     margin-left: 600px auto;
     margin-top: -30px auto;
@@ -59,13 +59,13 @@ body {
     margin-right: 150px auto;
     width: 100% auto;
     max-width: 150px auto;
-    border-radius: 10px auto;
+    border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 .tituloImformation {
     color: #053aad;
-    font-size: 1.2em auto;
+    font-size: 1.2em;
     line-height: 1.6 auto;
     font-family: 'Verdana', sans-serif;
     max-width: 300px auto;
@@ -100,7 +100,7 @@ body {
     padding: 20px auto;
     text-align: center;
     background-color: rgba(255, 165, 218, 0.8);
-    border-radius: 10px auto;
+    border-radius: 10px;
     box-shadow: 0 4px 10px rgb(148, 255, 246);
     margin-right: 700px auto;
     margin-top: -550px auto;
@@ -113,5 +113,6 @@ body {
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
+
 
 
